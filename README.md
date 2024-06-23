@@ -1,2 +1,1 @@
 "# KlinikYaSofi" 
-"# YaSoFi" 
