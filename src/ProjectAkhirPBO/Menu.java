@@ -52,18 +52,18 @@ public class Menu extends javax.swing.JFrame implements menghitungPembayaran {
         idperiksa.setEditable(false);
         noPasien.setEditable(false);
         idDokter.setEditable(false);
-        daftarPenyakit.setIcon(new FlatSVGIcon("Project/asset/daftar_penyakit.svg", 50, 50));
-        dataPasien.setIcon(new FlatSVGIcon("Project/asset/data_pasien.svg", 50, 50));
-        dataPasien1.setIcon(new FlatSVGIcon("Project/asset/data_dokter.svg", 50, 50));
-        pemeriksaan.setIcon(new FlatSVGIcon("Project/asset/pemeriksaan.svg", 50, 50));
-        obat.setIcon(new FlatSVGIcon("Project/asset/obat.svg", 50, 50));
-        Transaksi.setIcon(new FlatSVGIcon("Project/asset/transaksi.svg", 50, 50));
-        lbl_tht.setIcon(new FlatSVGIcon("Project/asset/tht.svg", 140, 130));
-        lbl_Saluran_Pernapasan.setIcon(new FlatSVGIcon("Project/asset/saluranPernapasan.svg", 140, 130));
-        lbl_saluranPencernaan.setIcon(new FlatSVGIcon("Project/asset/saluranPencernaan.svg", 140, 130));
-        lbl_PenyakitAnak.setIcon(new FlatSVGIcon("Project/asset/penyakitAnak.svg", 140, 130));
-        lbl_PenyakitKronis.setIcon(new FlatSVGIcon("Project/asset/penyakitKronis.svg", 140, 130));
-        lbl_mata.setIcon(new FlatSVGIcon("Project/asset/mata.svg", 140, 130));
+        daftarPenyakit.setIcon(new FlatSVGIcon("ProjectAkhirPBO/asset/daftar_penyakit.svg", 50, 50));
+        dataPasien.setIcon(new FlatSVGIcon("ProjectAkhirPBO/asset/data_pasien.svg", 50, 50));
+        dataPasien1.setIcon(new FlatSVGIcon("ProjectAkhirPBO/asset/data_dokter.svg", 50, 50));
+        pemeriksaan.setIcon(new FlatSVGIcon("ProjectAkhirPBO/asset/pemeriksaan.svg", 50, 50));
+        obat.setIcon(new FlatSVGIcon("ProjectAkhirPBO/asset/obat.svg", 50, 50));
+        Transaksi.setIcon(new FlatSVGIcon("ProjectAkhirPBO/asset/transaksi.svg", 50, 50));
+        lbl_tht.setIcon(new FlatSVGIcon("ProjectAkhirPBO/asset/tht.svg", 140, 130));
+        lbl_Saluran_Pernapasan.setIcon(new FlatSVGIcon("ProjectAkhirPBO/asset/saluranPernapasan.svg", 140, 130));
+        lbl_saluranPencernaan.setIcon(new FlatSVGIcon("ProjectAkhirPBO/asset/saluranPencernaan.svg", 140, 130));
+        lbl_PenyakitAnak.setIcon(new FlatSVGIcon("ProjectAkhirPBO/asset/penyakitAnak.svg", 140, 130));
+        lbl_PenyakitKronis.setIcon(new FlatSVGIcon("ProjectAkhirPBO/asset/penyakitKronis.svg", 140, 130));
+        lbl_mata.setIcon(new FlatSVGIcon("ProjectAkhirPBO/asset/mata.svg", 140, 130));
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
     }
